@@ -1,0 +1,8 @@
+/server
+*.exe
+.DS_Store
+
+# Real coupon dumps are hundreds of MB each. Download locally; do not commit.
+data/couponbase1.gz
+data/couponbase2.gz
+data/couponbase3.gz
